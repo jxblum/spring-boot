@@ -27,16 +27,4 @@
 			<artifactId>spring-data-gemfire</artifactId>
 		</dependency>
 	</dependencies>
-	<repositories>
-		<repository>
-			<id>spring-plugins</id>
-			<url>http://repo.spring.io/plugins-release</url>
-			<releases>
-				<enabled>true</enabled>
-			</releases>
-			<snapshots>
-				<enabled>false</enabled>
-			</snapshots>
-		</repository>
-	</repositories>
 </project>
